@@ -31,7 +31,7 @@
             </div>
 
             <div class="grid md:grid-cols-2 items-center pt-[2rem] md:pt-[8rem] md:pb-8 pb-3">
-                <Typography tag="h2" bold="medium" class="text-xl text-[#2429AF]">Vladyslav Didyk - 2024</Typography>
+                <Typography tag="h2" bold="medium" class="text-xl text-[#2429AF]">Vladyslav Didyk - 2025</Typography>
 
                 <div class="max-md:flex-col flex gap-5 md:justify-end mt-5 md:mt-0">
                     <a 
